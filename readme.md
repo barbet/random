@@ -1,1 +1,1 @@
-collections of small experiments
+collections of random experiments
